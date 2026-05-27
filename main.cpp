@@ -56,7 +56,7 @@ int main(int argc, char* argv[]) {
 
         // And now we present everything we draw after the clear.
         SDL_RenderPresent(renderer);
-        // SDL_Delay(1);
+        SDL_Delay(1);
     }
 
     SDL_DestroyWindow(window);
