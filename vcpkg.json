@@ -1,0 +1,9 @@
+{
+  "name" : "randomwalk",
+  "version-string" : "1.0.0",
+  "builtin-baseline" : "3855d4d6b52353ee2e2f73044327e59d01a18c84",
+  "dependencies" : [ {
+    "name" : "sdl3",
+    "version>=" : "3.4.8#1"
+  } ]
+}
